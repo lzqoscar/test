@@ -1,3 +1,2 @@
-a=2
-b=1
-c=b
+a=1
+#I have go back to change first by using checkout
